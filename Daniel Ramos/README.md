@@ -67,5 +67,5 @@ main()
 ```
 
 ## Imagen
-
+### Admirems un poco de la belleza de japon
 ![Un poco de la belleza de japon](https://static.vix.com/es/sites/default/files/styles/1x1/public/imj/p/paisajes-espectaculares-del-mundo-1.jpg)
